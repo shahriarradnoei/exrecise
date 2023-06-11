@@ -1,0 +1,345 @@
+/* start code exercise one */
+body{
+    margin: 0;
+    padding: 0;
+}
+.div-1{
+    width: 100%;
+    height: 725px;
+}
+.h1-1{
+    text-align: center;
+    background-color: yellow;
+}
+.h2-1{
+    position: relative;
+    left: 12px;
+}
+.li-1{
+    color: blue;
+    position: relative;
+    right: 30px;
+}
+.div-2{
+    border-left: 3px solid green;
+    width: 1350px;
+    position: relative;
+    left: 170px;
+    bottom: 140px;
+    position: relative;
+}
+.h2-2{
+    position: relative;
+    left: 10px;
+}
+.p1{
+    padding-left: 7px;
+}
+.div-3{
+    border: 3px dotted green;
+    width: 200px;
+    height: 120px;
+    position: absolute;
+    right: 95px;
+    bottom: 320px;
+}
+.li-2{
+    position: relative;
+    left: 100px;
+}
+.li-3{
+    position: relative;
+    left: 50px;
+}
+li{
+    list-style-type: none;
+}
+.p-2{
+    display: inline;
+    position: relative;
+    bottom: 120px;
+}
+.a-1{
+    color: blue;
+    position: relative;
+    bottom: 120px;
+}
+/* finish code exercise one  */
+/* start code exercise two */
+.div-4{
+    width: 100%;
+    height: 725px;
+    position: relative; 
+}
+.div-5{
+    border: 3px solid rgb(117, 117, 238);;
+    position: relative;
+    top: 105px;
+    left: 500px;
+    width: 500px;
+    height: 450px;
+}
+.h1-2{
+    text-align: center;
+    position: relative;
+    bottom: 70px;
+}
+.img-logo{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    bottom: 70px; 
+    left: 110px;   
+}
+.h2-3{
+    display: inline;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    right: 135px;
+}
+.li-4{
+    display: inline;
+    position: absolute;
+    top: 100px;
+    right: 315px;
+}
+.li-5{
+    display: inline;
+    position: absolute;
+    top: 100px;
+    right: 210px;
+}
+.li-6{
+    display: inline;
+    position: absolute;
+    top: 100px;
+    right: 105px;
+}
+.div-6{
+    display: inline-block;
+    width:180px ;
+    margin-left: 45px;
+}
+.h2-4{
+    position: relative;
+    bottom: 23px;
+    left: 15px;
+}
+.p-3{
+    position: relative;
+    bottom: 40px;
+    left: 15px;
+}
+.p-4{
+    position: relative;
+    bottom: 60px;
+    left: 15px;
+}
+.p-5{
+    position: relative;
+    bottom: 40px;
+    left: 15px;
+}
+.p-6{
+    position: relative;
+    bottom: 60px;
+    left: 15px;
+}
+.div-7{
+    border-left: 3px solid rgb(117, 117, 238);
+    width: 180px;
+    height: 133px;
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.h2-5{
+    position: relative;
+    bottom: 23px;
+    left: 33px;
+}
+.p-7{
+    position: relative;
+    bottom: 40px;
+    left: 33px;
+}
+.p-8{
+    position: relative;
+    bottom: 59px;
+    left: 33px;
+}
+.p-9{
+    position: relative;
+    bottom: 38px;
+    left: 33px;
+}
+.p-10{
+    position: relative;
+    bottom: 57px;
+    left: 33px;
+}
+.p-11{
+    position: relative;
+    bottom: 17px;
+}
+/* finish code exercise two */
+/* start code exercise three */
+.div-8{
+    width: 100%;
+    height: 725px;
+}
+.div-9{
+    border: 1px solid black;
+    width: 650px;
+    height: 695px;
+    position: relative;
+    left: 407.5px;
+    top: 15px;
+    position: relative;
+}
+.h1-3{
+    font-family: Georgia;
+    color: darkblue;
+    background-color: lightgray;
+    font-size: 24px;
+    letter-spacing: 1.6em;
+    word-spacing: 2em;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0;
+}
+.div-10{
+    background-color: white;
+}
+.h2-6{
+    font-family: Georgia;
+    color: darkred;
+    font-size: 18px;
+    letter-spacing: 0.8em;
+    margin-left: 10px;
+}
+.p-12{
+    margin-left: 10px;
+}
+.div-11{
+    position: relative;
+}
+.h2-7{
+    margin-left: 10px;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+}
+.p-13{
+    display: inline-block;
+    position: relative;
+    bottom: 22.5px;
+    left: 200px;
+}
+.h2-8{
+    display: inline-block;
+    position: relative;
+    right: 240px;
+    top: 25px;
+}
+.p-14{
+    display: inline-block;
+    position: relative;
+    right: 157px;
+    top: 25px;
+}
+.h2-9{
+    display: inline-block;
+    padding-left: 10px;
+}
+.p-15{
+    display: inline-block;
+    position: relative;
+    left: 82px;
+}
+.div-12{
+    position: relative;
+}
+.h2-10{
+    font-family: Georgia;
+    color: darkred;
+    font-size: 18px;
+    letter-spacing: 0.8em;
+    margin-left: 10px;
+}
+.h2-11{
+    display: inline-block;
+    padding-left: 10px;
+    position: absolute;
+    top: 20px;
+    
+}
+.p-16{
+    display: inline-block;
+    position: absolute;
+    top: 27px;
+    right: 214px;
+}
+.h2-12{
+    padding-left: 10px;
+    position: absolute;
+    top: 70px;
+}
+.p-17{
+    position: absolute;
+    top: 77.5px;
+    right: 208px;
+}
+/* finish code exercise three */
+/* start code exercise four */
+.div-13{
+    width: 100%;
+    height: 725px;
+}
+.div-14{
+    border: 1px solid black;
+    width: 550px;
+    height: 450px;
+    position: relative;
+    top: 137.5px;
+    left: 482.5px;
+}
+.div-15{
+    display: inline-block;
+    border-right: 1px solid black;
+    width: 350px;
+    height: 450px;
+}
+.h1-4{
+    text-align: center;
+    margin-top: 0;
+}
+.h2-13{
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.a-2{
+    display: block;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    padding-left: 400px;
+}
+.a-3{
+    display: block;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    padding-left: 400px;
+}
+.a-4{
+    display: block;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    padding-left: 400px;
+}
+/* finish code exercise four */
